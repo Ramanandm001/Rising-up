@@ -1,0 +1,18 @@
+window.botpressWebChat.init({
+    "composerPlaceholder": "Chat with bot",
+    "botConversationDescription": "This chatbot was built surprisingly fast with Botpress",
+    "botId": "f8dc7c18-a3b6-40c3-88a1-c5dd5fde3daa",
+    "hostUrl": "https://cdn.botpress.cloud/webchat/v1",
+    "messagingUrl": "https://messaging.botpress.cloud",
+    "clientId": "f8dc7c18-a3b6-40c3-88a1-c5dd5fde3daa",
+    "webhookId": "0542234b-8105-4414-ac97-b12f6fd069a8",
+    "lazySocket": true,
+    "themeName": "prism",
+    "stylesheet": "https://webchat-styler-css.botpress.app/prod/8c00d651-649a-484b-b020-0ac598cac88f/v63727/style.css",
+    "frontendVersion": "v1",
+    "useSessionStorage": true,
+    "enableConversationDeletion": true,
+    "showPoweredBy": true,
+    "theme": "prism",
+    "themeColor": "#2563eb"
+});
